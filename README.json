@@ -206,10 +206,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-29T03:24:32Z",
+            "last_commit": "2026-08-14T03:41:37Z",
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2017-01-18T18:15:25Z",
             "owner": "NoLifeDev",
             "repo": "NoLifeStory",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -313,7 +313,7 @@
             "last_commit": "2026-08-11T14:35:25Z",
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 634
+            "stars": 636
           }
         },
         {
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:59:46.230Z",
+    "last_updated": "2026-08-14T22:38:24.407Z",
     "original_repository": "MapleStoryUnity/awesome-maplestory",
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
     "enhanced_repository": "enhansome/enhansome-maplestory",
