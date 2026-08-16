@@ -313,7 +313,7 @@
             "last_commit": "2026-08-11T14:35:25Z",
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 636
+            "stars": 638
           }
         },
         {
@@ -324,7 +324,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-29T08:25:06Z",
+            "last_commit": "2026-08-16T04:16:47Z",
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 596
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:35:52.301Z",
+    "last_updated": "2026-08-16T22:35:04.959Z",
     "original_repository": "MapleStoryUnity/awesome-maplestory",
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
     "enhanced_repository": "enhansome/enhansome-maplestory",
