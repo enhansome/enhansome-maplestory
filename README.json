@@ -33,7 +33,7 @@
             "last_commit": "2026-03-31T15:12:11Z",
             "owner": "Hucaru",
             "repo": "Valhalla",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2019-01-02T15:26:28Z",
             "owner": "D363N6UY",
             "repo": "MapleStory-v113-Server-Eimulator",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -310,7 +310,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T14:35:25Z",
+            "last_commit": "2026-08-17T22:30:58Z",
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
             "stars": 638
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:35:04.959Z",
+    "last_updated": "2026-08-17T22:38:37.330Z",
     "original_repository": "MapleStoryUnity/awesome-maplestory",
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
     "enhanced_repository": "enhansome/enhansome-maplestory",
