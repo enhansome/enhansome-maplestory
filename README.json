@@ -1,162 +1,169 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HeavenMS",
+              "description": "An improved server based on MapleSolaxia (v83 MapleStory private server)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45082023,
+                "language": "Java",
+                "last_commit": "2019-12-28T11:26:16Z",
+                "owner": "ronancpl",
+                "repo": "HeavenMS",
+                "stars": 1213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Valhalla",
+              "description": "A Golang MapleStory (v28) server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87974626,
+                "language": "Go",
+                "last_commit": "2026-03-31T15:12:11Z",
+                "owner": "Hucaru",
+                "repo": "Valhalla",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orpheus",
+              "description": "Open Source MapleStory Server Emulator (v83)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4081430,
+                "language": "Java",
+                "last_commit": "2012-10-12T11:44:55Z",
+                "owner": "aatxe",
+                "repo": "Orpheus",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Destiny",
+              "description": "Open-source MapleStory server emulation software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92333083,
+                "language": "C#",
+                "last_commit": "2019-04-01T11:29:28Z",
+                "owner": "gilmatok",
+                "repo": "Destiny",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Maple.js",
+              "description": "MapleStory Server core using Node.js",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19652335,
+                "language": "JavaScript",
+                "last_commit": "2014-07-13T13:01:44Z",
+                "owner": "diamondo25",
+                "repo": "Maple.js",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GMS (Global)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MapleStory143",
+              "description": "Chinese MapleStory Server Ver.143",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181807044,
+                "language": "Java",
+                "last_commit": "2022-11-16T07:32:42Z",
+                "owner": "mimilewis",
+                "repo": "MapleStory143",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mapleLemon",
+              "description": "for chinese maplestory V027",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41580369,
+                "language": "Java",
+                "last_commit": "2023-12-26T08:59:05Z",
+                "owner": "icelemon1314",
+                "repo": "mapleLemon",
+                "stars": 134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CMS (China)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MapleStory-v113-Server-Eimulator",
+              "description": "MapleStory Eimulator for Taiwan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159531056,
+                "language": "Java",
+                "last_commit": "2019-01-02T15:26:28Z",
+                "owner": "D363N6UY",
+                "repo": "MapleStory-v113-Server-Eimulator",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MapleStory-v120-Server-Simulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159531436,
+                "language": "Java",
+                "last_commit": "2018-11-28T16:25:05Z",
+                "owner": "D363N6UY",
+                "repo": "MapleStory-v120-Server-Simulator",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TMS (Taiwan)"
+        }
+      ],
       "title": "Emulators"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HeavenMS",
-          "description": "An improved server based on MapleSolaxia (v83 MapleStory private server)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2019-12-28T11:26:16Z",
-            "owner": "ronancpl",
-            "repo": "HeavenMS",
-            "stars": 1213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Valhalla",
-          "description": "A Golang MapleStory (v28) server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-31T15:12:11Z",
-            "owner": "Hucaru",
-            "repo": "Valhalla",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Orpheus",
-          "description": "Open Source MapleStory Server Emulator (v83)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2012-10-12T11:44:55Z",
-            "owner": "aatxe",
-            "repo": "Orpheus",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Destiny",
-          "description": "Open-source MapleStory server emulation software",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2019-04-01T11:29:28Z",
-            "owner": "gilmatok",
-            "repo": "Destiny",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Maple.js",
-          "description": "MapleStory Server core using Node.js",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2014-07-13T13:01:44Z",
-            "owner": "diamondo25",
-            "repo": "Maple.js",
-            "stars": 45
-          }
-        }
-      ],
-      "title": "GMS (Global)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MapleStory143",
-          "description": "Chinese MapleStory Server Ver.143",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-11-16T07:32:42Z",
-            "owner": "mimilewis",
-            "repo": "MapleStory143",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mapleLemon",
-          "description": "for chinese maplestory V027",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-12-26T08:59:05Z",
-            "owner": "icelemon1314",
-            "repo": "mapleLemon",
-            "stars": 134
-          }
-        }
-      ],
-      "title": "CMS (China)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MapleStory-v113-Server-Eimulator",
-          "description": "MapleStory Eimulator for Taiwan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-01-02T15:26:28Z",
-            "owner": "D363N6UY",
-            "repo": "MapleStory-v113-Server-Eimulator",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MapleStory-v120-Server-Simulator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-11-28T16:25:05Z",
-            "owner": "D363N6UY",
-            "repo": "MapleStory-v120-Server-Simulator",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MapleStoryV119",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "TMS (Taiwan)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -165,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179068526,
             "language": "Pascal",
             "last_commit": "2023-11-15T16:37:19Z",
             "owner": "Elem8100",
@@ -179,24 +187,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67042725,
             "language": "C++",
             "last_commit": "2022-07-05T18:59:39Z",
             "owner": "SYJourney",
             "repo": "JourneyClient",
             "stars": 75
           }
-        },
-        {
-          "node_type": "item",
-          "title": "HeavenClient",
-          "description": "A custom client for HeavenMS",
-          "children": []
         }
       ],
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -205,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97287741,
             "language": "JavaScript",
             "last_commit": "2026-08-14T03:41:37Z",
             "owner": "maplestory-music",
@@ -219,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124422237,
             "language": "C",
             "last_commit": "2018-12-01T14:56:42Z",
             "owner": "D363N6UY",
@@ -233,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6643383,
             "language": "C++",
             "last_commit": "2017-01-18T18:15:25Z",
             "owner": "NoLifeDev",
@@ -247,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 302687851,
             "language": "TypeScript",
             "last_commit": "2026-07-02T08:27:29Z",
             "owner": "toyobayashi",
@@ -261,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30558355,
             "language": "C#",
             "last_commit": "2020-11-04T08:37:06Z",
             "owner": "hadeutscher",
@@ -275,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356154773,
             "language": "C#",
             "last_commit": "2026-07-14T17:13:12Z",
             "owner": "MapleStoryUnity",
@@ -289,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4442332,
             "language": "C++",
             "last_commit": "2015-09-01T18:49:29Z",
             "owner": "NoLifeDev",
@@ -300,7 +310,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -309,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135796538,
             "language": "C#",
             "last_commit": "2026-08-17T22:30:58Z",
             "owner": "lastbattle",
@@ -323,11 +334,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32788913,
             "language": "C#",
             "last_commit": "2026-08-16T04:16:47Z",
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 596
+            "stars": 598
           }
         },
         {
@@ -337,11 +349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264421774,
             "language": "Lua",
             "last_commit": "2020-09-25T09:28:13Z",
             "owner": "flwmxd",
             "repo": "MapleStory-Porting",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -351,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6377764,
             "language": "C#",
             "last_commit": "2020-07-05T05:00:08Z",
             "owner": "diamondo25",
@@ -365,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30565221,
             "language": "C#",
             "last_commit": "2015-08-31T02:27:21Z",
             "owner": "hadeutscher",
@@ -374,21 +389,12 @@
         }
       ],
       "title": "Software"
-    },
-    {
-      "description": "A curated list of awesome lists can be found at awesome.re.",
-      "items": [],
-      "title": "Other Awesome Lists"
-    },
-    {
-      "description": "To the extent possible under law, MapleStoryUnity has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:39:10.461Z",
+    "last_updated": "2026-08-19T12:38:18.955Z",
     "original_repository": "MapleStoryUnity/awesome-maplestory",
+    "original_repository_id": 356271486,
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
     "enhanced_repository": "enhansome/enhansome-maplestory",
     "enhanced_repository_description": null,
