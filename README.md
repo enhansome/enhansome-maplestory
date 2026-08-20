@@ -90,7 +90,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Libraries
 
-* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 276 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-14 - Definitive MapleStory music database
+* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 277 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-14 - Definitive MapleStory music database
 * [MapleStory-tool](https://github.com/reanox/MapleStory-tool) ⭐ 82 | 🐛 6 | 🌐 C | 📅 2018-12-01 - ijl15.dll for MapleStory
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [node-wz](https://github.com/toyobayashi/wz) ⚠️ Archived - MapleStory wz reader for Node.js and browser.
@@ -100,15 +100,15 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Software
 
-* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 639 | 🐛 62 | 🌐 C# | 📅 2026-08-17 - File/Level editor for MapleStory game files
-* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 598 | 🐛 61 | 🌐 C# | 📅 2026-08-16 - Maplestory online Extractor
+* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 640 | 🐛 62 | 🌐 C# | 📅 2026-08-17 - File/Level editor for MapleStory game files
+* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 599 | 🐛 61 | 🌐 C# | 📅 2026-08-16 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 149 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
 * [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 119 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
 * [HaSuite](https://github.com/hadeutscher/HaSuite) ⭐ 106 | 🐛 1 | 🌐 C# | 📅 2015-08-31 - A suite of MapleStory utilities
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 497,815 | 🐛 102 | 📅 2026-08-18.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 498,225 | 🐛 105 | 📅 2026-08-18.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
