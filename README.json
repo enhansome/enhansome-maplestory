@@ -203,6 +203,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MapleStory-cocos2d",
+          "description": "cocos2d 冒险岛游戏。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67813117,
+            "language": "C++",
+            "last_commit": "2016-09-09T16:33:28Z",
+            "owner": "dddzg",
+            "repo": "MapleStory-cocos2d",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "maplebgm-db",
           "description": "Definitive MapleStory music database",
           "children": [],
@@ -324,7 +345,7 @@
             "last_commit": "2026-08-17T22:30:58Z",
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 641
+            "stars": 642
           }
         },
         {
@@ -336,10 +357,10 @@
             "archived": false,
             "id": 32788913,
             "language": "C#",
-            "last_commit": "2026-08-16T04:16:47Z",
+            "last_commit": "2026-08-24T05:56:37Z",
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 600
+            "stars": 601
           }
         },
         {
@@ -392,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:36:05.432Z",
+    "last_updated": "2026-08-24T14:43:02.190Z",
     "original_repository": "MapleStoryUnity/awesome-maplestory",
     "original_repository_id": 356271486,
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
