@@ -54,7 +54,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 ### CMS (China)
 
 * [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 142 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
-* [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 134 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
+* [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 135 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
 
 ### TMS (Taiwan)
 
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 500,273 | 🐛 105 | 📅 2026-08-21.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 500,365 | 🐛 105 | 📅 2026-08-21.
 
 ## License
 

@@ -114,7 +114,7 @@
                 "last_commit": "2023-12-26T08:59:05Z",
                 "owner": "icelemon1314",
                 "repo": "mapleLemon",
-                "stars": 134
+                "stars": 135
               }
             }
           ],
@@ -413,9 +413,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:16:43.661Z",
-    "original_repository": "MapleStoryUnity/awesome-maplestory",
-    "original_repository_id": 356271486,
+    "last_updated": "2026-08-27T11:50:16.172Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 356271486,
+      "language": null,
+      "last_commit": "2026-03-22T07:10:58Z",
+      "owner": "MapleStoryUnity",
+      "repo": "awesome-maplestory",
+      "stars": 84
+    },
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
     "enhanced_repository": "enhansome/enhansome-maplestory",
     "enhanced_repository_description": null,
