@@ -18,7 +18,8 @@
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
                 "stars": 1215
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Hucaru",
                 "repo": "Valhalla",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "aatxe",
                 "repo": "Orpheus",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "gilmatok",
                 "repo": "Destiny",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "diamondo25",
                 "repo": "Maple.js",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "mimilewis",
                 "repo": "MapleStory143",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "icelemon1314",
                 "repo": "mapleLemon",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             }
           ],
           "description": null,
@@ -137,7 +144,8 @@
                 "owner": "D363N6UY",
                 "repo": "MapleStory-v113-Server-Eimulator",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "D363N6UY",
                 "repo": "MapleStory-v120-Server-Simulator",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:05:47.116Z"
             }
           ],
           "description": null,
@@ -178,7 +187,8 @@
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -193,7 +203,8 @@
             "owner": "SYJourney",
             "repo": "JourneyClient",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         }
       ],
       "title": "Clients"
@@ -214,7 +225,8 @@
             "owner": "dddzg",
             "repo": "MapleStory-cocos2d",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         }
       ],
       "title": "Games"
@@ -235,7 +247,8 @@
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -250,7 +263,8 @@
             "owner": "D363N6UY",
             "repo": "MapleStory-tool",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -265,7 +279,8 @@
             "owner": "NoLifeDev",
             "repo": "NoLifeStory",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -280,7 +295,8 @@
             "owner": "toyobayashi",
             "repo": "wz",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -295,7 +311,8 @@
             "owner": "hadeutscher",
             "repo": "MapleLib",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -310,7 +327,8 @@
             "owner": "MapleStoryUnity",
             "repo": "UnityWzLib",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -325,7 +343,8 @@
             "owner": "NoLifeDev",
             "repo": "NoLifeNx",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         }
       ],
       "title": "Libraries"
@@ -346,7 +365,8 @@
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
             "stars": 644
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -361,7 +381,8 @@
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -376,7 +397,8 @@
             "owner": "flwmxd",
             "repo": "MapleStory-Porting",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -391,7 +413,8 @@
             "owner": "diamondo25",
             "repo": "MapleShark",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         },
         {
           "node_type": "item",
@@ -406,14 +429,15 @@
             "owner": "hadeutscher",
             "repo": "HaSuite",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T06:05:47.116Z"
         }
       ],
       "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:16.172Z",
+    "last_updated": "2026-08-28T06:05:47.116Z",
     "original_repository_info": {
       "archived": false,
       "id": 356271486,
