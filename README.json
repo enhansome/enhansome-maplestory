@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An improved server based on MapleSolaxia (v83 MapleStory private server)",
+                "homepage": null,
                 "id": 45082023,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-12-28T11:26:16Z",
+                "open_issues": 9,
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
-                "stars": 1215
+                "stars": 1215,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             },
@@ -28,12 +33,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Golang MapleStory (v28) server",
+                "homepage": null,
                 "id": 87974626,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-31T15:12:11Z",
+                "open_issues": 10,
                 "owner": "Hucaru",
                 "repo": "Valhalla",
-                "stars": 345
+                "stars": 345,
+                "topics": [
+                  "docker",
+                  "game-server",
+                  "go",
+                  "golang",
+                  "maplestory",
+                  "mmorpg",
+                  "mmorpg-server"
+                ]
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             },
@@ -44,12 +62,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open Source MapleStory Server Emulator (v83)",
+                "homepage": null,
                 "id": 4081430,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2012-10-12T11:44:55Z",
+                "open_issues": 7,
                 "owner": "aatxe",
                 "repo": "Orpheus",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "java",
+                  "maplestory",
+                  "private-server"
+                ]
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             },
@@ -60,12 +87,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source MapleStory server emulation software",
+                "homepage": null,
                 "id": 92333083,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2019-04-01T11:29:28Z",
+                "open_issues": 3,
                 "owner": "gilmatok",
                 "repo": "Destiny",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "maplestory"
+                ]
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             },
@@ -76,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MapleStory Server core using Node.js",
+                "homepage": null,
                 "id": 19652335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-07-13T13:01:44Z",
+                "open_issues": 2,
                 "owner": "diamondo25",
                 "repo": "Maple.js",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             }
@@ -99,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese MapleStory Server  Ver.143",
+                "homepage": null,
                 "id": 181807044,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-11-16T07:32:42Z",
+                "open_issues": 12,
                 "owner": "mimilewis",
                 "repo": "MapleStory143",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             },
@@ -115,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "for chinese maplestory V027",
+                "homepage": "https://forum.ragezone.com/f566/release-chinese-maplestory-version-027-a-1076483/",
                 "id": 41580369,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-26T08:59:05Z",
+                "open_issues": 5,
                 "owner": "icelemon1314",
                 "repo": "mapleLemon",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             }
@@ -138,12 +187,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MapleStory Eimulator for Taiwan",
+                "homepage": null,
                 "id": 159531056,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-01-02T15:26:28Z",
+                "open_issues": 0,
                 "owner": "D363N6UY",
                 "repo": "MapleStory-v113-Server-Eimulator",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "gameserver",
+                  "java",
+                  "maplestory"
+                ]
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             },
@@ -154,12 +212,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 159531436,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-11-28T16:25:05Z",
+                "open_issues": 0,
                 "owner": "D363N6UY",
                 "repo": "MapleStory-v120-Server-Simulator",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "gameserver",
+                  "java",
+                  "maplestory"
+                ]
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
             }
@@ -181,12 +248,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offline MapleStory Client Emulator",
+            "homepage": null,
             "id": 179068526,
             "language": "Pascal",
+            "license": "MPL-2.0",
             "last_commit": "2023-11-15T16:37:19Z",
+            "open_issues": 6,
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "2d",
+              "delphi",
+              "game",
+              "pascal",
+              "wz"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -197,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 67042725,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2022-07-05T18:59:39Z",
+            "open_issues": 2,
             "owner": "SYJourney",
             "repo": "JourneyClient",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         }
@@ -219,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos2d 冒险岛游戏。",
+            "homepage": null,
             "id": 67813117,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-09-09T16:33:28Z",
+            "open_issues": 0,
             "owner": "dddzg",
             "repo": "MapleStory-cocos2d",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         }
@@ -241,12 +329,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Definitive MapleStory music database",
+            "homepage": "https://maplestory-music.github.io/",
             "id": 97287741,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T03:41:37Z",
+            "open_issues": 0,
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "bgm",
+              "maplestory",
+              "music"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -257,12 +354,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ijl15.dll for MapleStory",
+            "homepage": null,
             "id": 124422237,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2018-12-01T14:56:42Z",
+            "open_issues": 6,
             "owner": "D363N6UY",
             "repo": "MapleStory-tool",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "cpp",
+              "maplestory"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -273,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This has no life",
+            "homepage": "http://forum.ragezone.com/f690/nolifestory-935511/",
             "id": 6643383,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2017-01-18T18:15:25Z",
+            "open_issues": 5,
             "owner": "NoLifeDev",
             "repo": "NoLifeStory",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -289,12 +399,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MapleStory wz reader for Node.js and browser.",
+            "homepage": "wz-mu.vercel.app",
             "id": 302687851,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-02T08:27:29Z",
+            "open_issues": 1,
             "owner": "toyobayashi",
             "repo": "wz",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "maplestory",
+              "wz"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -305,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general-purpose MapleStory library",
+            "homepage": null,
             "id": 30558355,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2020-11-04T08:37:06Z",
+            "open_issues": 1,
             "owner": "hadeutscher",
             "repo": "MapleLib",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -321,12 +444,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WzLib for Unity",
+            "homepage": null,
             "id": 356154773,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-14T17:13:12Z",
+            "open_issues": 4,
             "owner": "MapleStoryUnity",
             "repo": "UnityWzLib",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "compression",
+              "game",
+              "library",
+              "maplestory",
+              "unity",
+              "wz",
+              "wzlib"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -337,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library to read NX files.",
+            "homepage": null,
             "id": 4442332,
             "language": "C++",
+            "license": null,
             "last_commit": "2015-09-01T18:49:29Z",
+            "open_issues": 2,
             "owner": "NoLifeDev",
             "repo": "NoLifeNx",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         }
@@ -359,12 +500,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All in one .wz file/map editor for MapleStory game files",
+            "homepage": null,
             "id": 135796538,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T17:28:06Z",
+            "open_issues": 62,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 644
+            "stars": 645,
+            "topics": [
+              "editor",
+              "file",
+              "maplestory"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -375,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maplestory online Extractor",
+            "homepage": null,
             "id": 32788913,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:56:37Z",
+            "open_issues": 63,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 604
+            "stars": 604,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -391,12 +546,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MapleStory implementation build with early stage MapleEngine",
+            "homepage": null,
             "id": 264421774,
             "language": "Lua",
+            "license": "AGPL-3.0",
             "last_commit": "2020-09-25T09:28:13Z",
+            "open_issues": 6,
             "owner": "flwmxd",
             "repo": "MapleStory-Porting",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "android",
+              "client",
+              "cpp",
+              "editor",
+              "game",
+              "game-engine",
+              "game-engine-2d",
+              "ios",
+              "lua",
+              "maplestory",
+              "opengl",
+              "opengl-es",
+              "opengl2",
+              "switch",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -407,12 +583,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!",
+            "homepage": null,
             "id": 6377764,
             "language": "C#",
+            "license": "LGPL-3.0",
             "last_commit": "2020-07-05T05:00:08Z",
+            "open_issues": 8,
             "owner": "diamondo25",
             "repo": "MapleShark",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "c-sharp",
+              "winpcap"
+            ]
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         },
@@ -423,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite of MapleStory utilities",
+            "homepage": null,
             "id": 30565221,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2015-08-31T02:27:21Z",
+            "open_issues": 1,
             "owner": "hadeutscher",
             "repo": "HaSuite",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
         }
@@ -437,15 +626,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:05:47.116Z",
+    "last_updated": "2026-08-29T03:42:27.897Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome MapleStory emulators, libraries and software",
+      "homepage": null,
       "id": 356271486,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-03-22T07:10:58Z",
+      "open_issues": 0,
       "owner": "MapleStoryUnity",
       "repo": "awesome-maplestory",
-      "stars": 84
+      "stars": 85,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "maplestory"
+      ]
     },
     "original_repository_sha": "9b8c97121aa57f14a909221d15dd989d7932ac8e",
     "enhanced_repository": "enhansome/enhansome-maplestory",
