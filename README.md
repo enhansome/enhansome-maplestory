@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 500,884 | 🐛 105 | 📅 2026-08-21.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21.
 
 ## License
 
