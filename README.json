@@ -509,7 +509,7 @@
             "open_issues": 62,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "editor",
               "file",
@@ -534,7 +534,7 @@
             "open_issues": 63,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -616,7 +616,7 @@
             "open_issues": 1,
             "owner": "hadeutscher",
             "repo": "HaSuite",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:19.753Z",
+    "last_updated": "2026-08-30T00:17:42.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
