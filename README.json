@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
-                "stars": 1215,
+                "stars": 1214,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:17:42.554Z",
+    "last_updated": "2026-08-31T00:35:20.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
