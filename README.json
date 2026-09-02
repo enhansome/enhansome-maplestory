@@ -284,7 +284,7 @@
             "open_issues": 2,
             "owner": "SYJourney",
             "repo": "JourneyClient",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:16:52.823Z",
+    "last_updated": "2026-09-02T00:10:03.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
