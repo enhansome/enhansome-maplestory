@@ -95,20 +95,20 @@ A curated list of awesome MapleStory emulators, libraries and software.
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [node-wz](https://github.com/toyobayashi/wz) ⚠️ Archived - MapleStory wz reader for Node.js and browser.
 * [MapleLib](https://github.com/hadeutscher/MapleLib) ⭐ 44 | 🐛 1 | 🌐 C# | 📅 2020-11-04 - A general-purpose MapleStory library
-* [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) ⭐ 25 | 🐛 5 | 🌐 C# | 📅 2026-09-07 - WzLib for Unity
+* [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) ⭐ 26 | 🐛 5 | 🌐 C# | 📅 2026-09-07 - WzLib for Unity
 * [NoLifeNx](https://github.com/NoLifeDev/NoLifeNx) ⭐ 18 | 🐛 2 | 🌐 C++ | 📅 2015-09-01 - Library to read NX files.
 
 ## Software
 
-* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 647 | 🐛 62 | 🌐 C# | 📅 2026-09-08 - File/Level editor for MapleStory game files
-* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 610 | 🐛 63 | 🌐 C# | 📅 2026-09-08 - Maplestory online Extractor
+* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 647 | 🐛 62 | 🌐 C# | 📅 2026-09-09 - File/Level editor for MapleStory game files
+* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 610 | 🐛 62 | 🌐 C# | 📅 2026-09-08 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 149 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
 * [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 119 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
 * [HaSuite](https://github.com/hadeutscher/HaSuite) ⭐ 107 | 🐛 1 | 🌐 C# | 📅 2015-08-31 - A suite of MapleStory utilities
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 504,273 | 🐛 106 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 504,534 | 🐛 106 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
