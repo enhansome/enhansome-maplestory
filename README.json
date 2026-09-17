@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "2d",
               "delphi",
@@ -509,7 +509,7 @@
             "open_issues": 62,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 653,
+            "stars": 655,
             "topics": [
               "editor",
               "file",
@@ -534,7 +534,7 @@
             "open_issues": 50,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 613,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:15:58.307Z",
+    "last_updated": "2026-09-17T00:28:01.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
