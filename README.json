@@ -432,7 +432,7 @@
             "open_issues": 1,
             "owner": "hadeutscher",
             "repo": "MapleLib",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:13:42.835Z",
+    "last_updated": "2026-09-22T00:48:39.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",

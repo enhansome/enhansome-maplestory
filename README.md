@@ -94,7 +94,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 * [MapleStory-tool](https://github.com/reanox/MapleStory-tool) ⭐ 84 | 🐛 6 | 🌐 C | 📅 2018-12-01 - ijl15.dll for MapleStory
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [node-wz](https://github.com/toyobayashi/wz) ⚠️ Archived - MapleStory wz reader for Node.js and browser.
-* [MapleLib](https://github.com/hadeutscher/MapleLib) ⭐ 44 | 🐛 1 | 🌐 C# | 📅 2020-11-04 - A general-purpose MapleStory library
+* [MapleLib](https://github.com/hadeutscher/MapleLib) ⭐ 45 | 🐛 1 | 🌐 C# | 📅 2020-11-04 - A general-purpose MapleStory library
 * [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) ⭐ 27 | 🐛 5 | 🌐 C# | 📅 2026-09-10 - WzLib for Unity
 * [NoLifeNx](https://github.com/NoLifeDev/NoLifeNx) ⭐ 18 | 🐛 2 | 🌐 C++ | 📅 2015-09-01 - Library to read NX files.
 
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 508,253 | 🐛 106 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 508,649 | 🐛 106 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
