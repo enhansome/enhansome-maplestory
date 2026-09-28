@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
-                "stars": 1214,
+                "stars": 1215,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -531,7 +531,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-24T08:58:43Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 618,
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:33:35.818Z",
+    "last_updated": "2026-09-28T00:42:05.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
