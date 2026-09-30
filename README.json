@@ -530,8 +530,8 @@
             "id": 32788913,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:58:43Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-30T00:18:20Z",
+            "open_issues": 57,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 619,
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:54:13.904Z",
+    "last_updated": "2026-09-30T01:16:46.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
