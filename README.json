@@ -534,7 +534,7 @@
             "open_issues": 58,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -555,7 +555,7 @@
             "open_issues": 6,
             "owner": "flwmxd",
             "repo": "MapleStory-Porting",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "android",
               "client",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:16:17.128Z",
+    "last_updated": "2026-10-02T01:39:49.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
