@@ -90,7 +90,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Libraries
 
-* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 279 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-30 - Definitive MapleStory music database
+* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 279 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-03 - Definitive MapleStory music database
 * [MapleStory-tool](https://github.com/reanox/MapleStory-tool) ⭐ 84 | 🐛 6 | 🌐 C | 📅 2018-12-01 - ijl15.dll for MapleStory
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [node-wz](https://github.com/toyobayashi/wz) ⚠️ Archived - MapleStory wz reader for Node.js and browser.
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 513,748 | 🐛 106 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02.
 
 ## License
 

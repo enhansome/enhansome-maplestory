@@ -208,7 +208,7 @@
             {
               "node_type": "item",
               "title": "MapleStory-v120-Server-Simulator",
-              "description": null,
+              "description": "D363N6UY/MapleStory-v120-Server-Simulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -271,7 +271,7 @@
         {
           "node_type": "item",
           "title": "JourneyClient",
-          "description": null,
+          "description": "SYJourney/JourneyClient",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -334,7 +334,7 @@
             "id": 97287741,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T23:26:08Z",
+            "last_commit": "2026-10-03T03:25:24Z",
             "open_issues": 0,
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:10:22.252Z",
+    "last_updated": "2026-10-03T04:55:20.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
