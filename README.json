@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "dddzg",
             "repo": "MapleStory-cocos2d",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -334,7 +334,7 @@
             "id": 97287741,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T03:25:24Z",
+            "last_commit": "2026-10-07T01:36:59Z",
             "open_issues": 0,
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
@@ -531,7 +531,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-04T04:11:22Z",
-            "open_issues": 58,
+            "open_issues": 56,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 620,
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:30:36.619Z",
+    "last_updated": "2026-10-08T01:54:00.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
