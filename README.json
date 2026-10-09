@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "Hucaru",
                 "repo": "Valhalla",
-                "stars": 346,
+                "stars": 345,
                 "topics": [
                   "docker",
                   "game-server",
@@ -147,7 +147,7 @@
                 "open_issues": 12,
                 "owner": "mimilewis",
                 "repo": "MapleStory143",
-                "stars": 142,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
-            "stars": 369,
+            "stars": 368,
             "topics": [
               "2d",
               "delphi",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:54:00.158Z",
+    "last_updated": "2026-10-09T02:06:30.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",

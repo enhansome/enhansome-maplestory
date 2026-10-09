@@ -42,7 +42,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 ### GMS (Global)
 
 * [HeavenMS](https://github.com/ronancpl/HeavenMS) ⚠️ Archived - An improved server based on MapleSolaxia (v83 MapleStory private server)
-* [Valhalla](https://github.com/Hucaru/Valhalla) ⭐ 346 | 🐛 10 | 🌐 Go | 📅 2026-03-31 - A Golang MapleStory (v28) server
+* [Valhalla](https://github.com/Hucaru/Valhalla) ⭐ 345 | 🐛 10 | 🌐 Go | 📅 2026-03-31 - A Golang MapleStory (v28) server
 * [Orpheus](https://github.com/aatxe/Orpheus) ⚠️ Archived - Open Source MapleStory Server Emulator (v83)
 * [Destiny](https://github.com/Fraysa/Destiny) ⭐ 93 | 🐛 3 | 🌐 C# | 📅 2019-04-01 - Open-source MapleStory server emulation software
 * [Maple.js](https://github.com/diamondo25/Maple.js) ⚠️ Archived - MapleStory Server core using Node.js
@@ -53,7 +53,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ### CMS (China)
 
-* [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 142 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
+* [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 141 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
 * [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 135 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
 
 ### TMS (Taiwan)
@@ -68,7 +68,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Clients
 
-* [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client) ⭐ 369 | 🐛 6 | 🌐 Pascal | 📅 2023-11-15 - Offline MapleStory Client Emulator
+* [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client) ⭐ 368 | 🐛 6 | 🌐 Pascal | 📅 2023-11-15 - Offline MapleStory Client Emulator
 * [JourneyClient](https://github.com/SYJourney/JourneyClient) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2022-07-05
 * [HeavenClient](https://github.com/HeavenClient/HeavenClient) - A custom client for HeavenMS
 
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 516,125 | 🐛 106 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 516,368 | 🐛 106 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
