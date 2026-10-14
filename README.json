@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:01:55.572Z",
+    "last_updated": "2026-10-14T01:11:49.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
@@ -638,7 +638,7 @@
       "open_issues": 0,
       "owner": "MapleStoryUnity",
       "repo": "awesome-maplestory",
-      "stars": 87,
+      "stars": 88,
       "topics": [
         "awesome",
         "awesome-list",
