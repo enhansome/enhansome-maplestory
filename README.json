@@ -147,7 +147,7 @@
                 "open_issues": 12,
                 "owner": "mimilewis",
                 "repo": "MapleStory143",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "dddzg",
             "repo": "MapleStory-cocos2d",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -335,7 +335,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-07T01:36:59Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
             "stars": 279,
@@ -592,7 +592,7 @@
             "open_issues": 8,
             "owner": "diamondo25",
             "repo": "MapleShark",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "c-sharp",
               "winpcap"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:11:49.137Z",
+    "last_updated": "2026-10-15T00:30:27.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",

@@ -53,7 +53,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ### CMS (China)
 
-* [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 141 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
+* [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 142 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
 * [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 135 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
 
 ### TMS (Taiwan)
@@ -74,7 +74,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Games
 
-* [MapleStory-cocos2d](https://github.com/dddzg/MapleStory-cocos2d) ⭐ 28 | 🐛 0 | 🌐 C++ | 📅 2016-09-09 - cocos2d 冒险岛游戏。
+* [MapleStory-cocos2d](https://github.com/dddzg/MapleStory-cocos2d) ⭐ 29 | 🐛 0 | 🌐 C++ | 📅 2016-09-09 - cocos2d 冒险岛游戏。
 
 ## Websites
 
@@ -90,7 +90,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Libraries
 
-* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 279 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-07 - Definitive MapleStory music database
+* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 279 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-07 - Definitive MapleStory music database
 * [MapleStory-tool](https://github.com/reanox/MapleStory-tool) ⭐ 84 | 🐛 6 | 🌐 C | 📅 2018-12-01 - ijl15.dll for MapleStory
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [MapleLib](https://github.com/hadeutscher/MapleLib) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2020-11-04 - A general-purpose MapleStory library
@@ -103,12 +103,12 @@ A curated list of awesome MapleStory emulators, libraries and software.
 * [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 662 | 🐛 62 | 🌐 C# | 📅 2026-10-06 - File/Level editor for MapleStory game files
 * [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 623 | 🐛 56 | 🌐 C# | 📅 2026-10-04 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 149 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
-* [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 119 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
+* [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 120 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
 * [HaSuite](https://github.com/hadeutscher/HaSuite) ⭐ 107 | 🐛 1 | 🌐 C# | 📅 2015-08-31 - A suite of MapleStory utilities
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 518,670 | 🐛 105 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 519,020 | 🐛 105 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
