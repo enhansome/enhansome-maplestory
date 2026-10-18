@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
-                "stars": 1215,
+                "stars": 1216,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -284,7 +284,7 @@
             "open_issues": 2,
             "owner": "SYJourney",
             "repo": "JourneyClient",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -509,7 +509,7 @@
             "open_issues": 62,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:26:05.167Z",
+    "last_updated": "2026-10-18T00:00:23.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
