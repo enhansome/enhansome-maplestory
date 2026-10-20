@@ -334,7 +334,7 @@
             "id": 97287741,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T05:06:59Z",
+            "last_commit": "2026-10-19T02:15:42Z",
             "open_issues": 1,
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
@@ -531,10 +531,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-04T04:11:22Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:11:53.426Z",
+    "last_updated": "2026-10-20T01:04:47.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
