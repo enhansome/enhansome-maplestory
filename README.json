@@ -506,10 +506,10 @@
             "language": "C#",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T04:48:34Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 666,
+            "stars": 667,
             "topics": [
               "editor",
               "file",
@@ -534,7 +534,7 @@
             "open_issues": 58,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:37:54.089Z",
+    "last_updated": "2026-10-25T00:19:00.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
