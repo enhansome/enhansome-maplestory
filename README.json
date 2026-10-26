@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 667,
+            "stars": 668,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:19:00.922Z",
+    "last_updated": "2026-10-26T00:18:19.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
