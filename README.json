@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "Hucaru",
                 "repo": "Valhalla",
-                "stars": 345,
+                "stars": 344,
                 "topics": [
                   "docker",
                   "game-server",
@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:27:42.402Z",
+    "last_updated": "2026-10-28T01:17:55.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
