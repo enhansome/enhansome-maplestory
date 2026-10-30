@@ -68,7 +68,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Clients
 
-* [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client) ⭐ 369 | 🐛 6 | 🌐 Pascal | 📅 2023-11-15 - Offline MapleStory Client Emulator
+* [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client) ⭐ 368 | 🐛 6 | 🌐 Pascal | 📅 2023-11-15 - Offline MapleStory Client Emulator
 * [JourneyClient](https://github.com/SYJourney/JourneyClient) ⭐ 77 | 🐛 2 | 🌐 C++ | 📅 2022-07-05
 * [HeavenClient](https://github.com/HeavenClient/HeavenClient) - A custom client for HeavenMS
 
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 526,346 | 🐛 105 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 526,878 | 🐛 105 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
