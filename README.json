@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
-                "stars": 1216,
+                "stars": 1215,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -168,7 +168,7 @@
                 "open_issues": 5,
                 "owner": "icelemon1314",
                 "repo": "mapleLemon",
-                "stars": 135,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -284,7 +284,7 @@
             "open_issues": 2,
             "owner": "SYJourney",
             "repo": "JourneyClient",
-            "stars": 77,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "editor",
               "file",
@@ -531,10 +531,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-04T04:11:22Z",
-            "open_issues": 58,
+            "open_issues": 60,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 628,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -592,7 +592,7 @@
             "open_issues": 8,
             "owner": "diamondo25",
             "repo": "MapleShark",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "c-sharp",
               "winpcap"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:55:39.077Z",
+    "last_updated": "2026-10-31T01:34:08.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
@@ -638,7 +638,7 @@
       "open_issues": 0,
       "owner": "MapleStoryUnity",
       "repo": "awesome-maplestory",
-      "stars": 88,
+      "stars": 87,
       "topics": [
         "awesome",
         "awesome-list",

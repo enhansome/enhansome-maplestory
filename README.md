@@ -54,7 +54,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 ### CMS (China)
 
 * [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 142 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
-* [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 135 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
+* [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 134 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
 
 ### TMS (Taiwan)
 
@@ -69,7 +69,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 ## Clients
 
 * [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client) ⭐ 368 | 🐛 6 | 🌐 Pascal | 📅 2023-11-15 - Offline MapleStory Client Emulator
-* [JourneyClient](https://github.com/SYJourney/JourneyClient) ⭐ 77 | 🐛 2 | 🌐 C++ | 📅 2022-07-05
+* [JourneyClient](https://github.com/SYJourney/JourneyClient) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2022-07-05
 * [HeavenClient](https://github.com/HeavenClient/HeavenClient) - A custom client for HeavenMS
 
 ## Games
@@ -100,15 +100,15 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Software
 
-* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 668 | 🐛 63 | 🌐 C# | 📅 2026-10-06 - File/Level editor for MapleStory game files
-* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 628 | 🐛 58 | 🌐 C# | 📅 2026-10-04 - Maplestory online Extractor
+* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 667 | 🐛 63 | 🌐 C# | 📅 2026-10-06 - File/Level editor for MapleStory game files
+* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 627 | 🐛 60 | 🌐 C# | 📅 2026-10-04 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 149 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
-* [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 120 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
+* [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 121 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
 * [HaSuite](https://github.com/hadeutscher/HaSuite) ⭐ 107 | 🐛 1 | 🌐 C# | 📅 2015-08-31 - A suite of MapleStory utilities
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 526,878 | 🐛 105 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 527,539 | 🐛 105 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
