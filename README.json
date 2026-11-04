@@ -505,7 +505,7 @@
             "id": 135796538,
             "language": "C#",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-02T22:42:43Z",
+            "last_commit": "2026-11-03T09:35:17Z",
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:27:45.008Z",
+    "last_updated": "2026-11-04T02:16:52.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
