@@ -54,7 +54,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 ### CMS (China)
 
 * [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 142 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
-* [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 134 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
+* [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 135 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
 
 ### TMS (Taiwan)
 
@@ -100,7 +100,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Software
 
-* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 670 | 🐛 63 | 🌐 C# | 📅 2026-11-03 - File/Level editor for MapleStory game files
+* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 671 | 🐛 63 | 🌐 C# | 📅 2026-11-03 - File/Level editor for MapleStory game files
 * [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 628 | 🐛 59 | 🌐 C# | 📅 2026-10-04 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 149 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
 * [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 121 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 531,037 | 🐛 103 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 531,811 | 🐛 103 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
