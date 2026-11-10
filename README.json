@@ -196,7 +196,7 @@
                 "open_issues": 0,
                 "owner": "D363N6UY",
                 "repo": "MapleStory-v113-Server-Eimulator",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "gameserver",
                   "java",
@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
-            "stars": 368,
+            "stars": 370,
             "topics": [
               "2d",
               "delphi",
@@ -505,11 +505,11 @@
             "id": 135796538,
             "language": "C#",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-03T09:35:17Z",
+            "last_commit": "2026-11-09T14:44:04Z",
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:42:51.081Z",
+    "last_updated": "2026-11-10T04:05:06.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
