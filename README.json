@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "Hucaru",
                 "repo": "Valhalla",
-                "stars": 345,
+                "stars": 347,
                 "topics": [
                   "docker",
                   "game-server",
@@ -506,7 +506,7 @@
             "language": "C#",
             "license": "MPL-2.0",
             "last_commit": "2026-11-09T14:44:04Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
             "stars": 672,
@@ -531,7 +531,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-04T04:11:22Z",
-            "open_issues": 60,
+            "open_issues": 59,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 628,
@@ -592,7 +592,7 @@
             "open_issues": 8,
             "owner": "diamondo25",
             "repo": "MapleShark",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "c-sharp",
               "winpcap"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:05:06.895Z",
+    "last_updated": "2026-11-11T01:54:28.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
