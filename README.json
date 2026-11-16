@@ -308,7 +308,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2016-09-09T16:33:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "dddzg",
             "repo": "MapleStory-cocos2d",
             "stars": 29,
@@ -534,7 +534,7 @@
             "open_issues": 62,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 629,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -555,7 +555,7 @@
             "open_issues": 6,
             "owner": "flwmxd",
             "repo": "MapleStory-Porting",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "android",
               "client",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:50:55.559Z",
+    "last_updated": "2026-11-16T01:59:04.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
@@ -638,7 +638,7 @@
       "open_issues": 0,
       "owner": "MapleStoryUnity",
       "repo": "awesome-maplestory",
-      "stars": 90,
+      "stars": 92,
       "topics": [
         "awesome",
         "awesome-list",
