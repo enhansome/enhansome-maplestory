@@ -96,7 +96,7 @@
                 "open_issues": 3,
                 "owner": "gilmatok",
                 "repo": "Destiny",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "maplestory"
                 ]
@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "2d",
               "delphi",
@@ -284,7 +284,7 @@
             "open_issues": 2,
             "owner": "SYJourney",
             "repo": "JourneyClient",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "editor",
               "file",
@@ -534,7 +534,7 @@
             "open_issues": 62,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
-            "stars": 630,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:47.116Z"
@@ -555,7 +555,7 @@
             "open_issues": 6,
             "owner": "flwmxd",
             "repo": "MapleStory-Porting",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "android",
               "client",
@@ -592,7 +592,7 @@
             "open_issues": 8,
             "owner": "diamondo25",
             "repo": "MapleShark",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "c-sharp",
               "winpcap"
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:59:04.950Z",
+    "last_updated": "2026-11-17T04:27:31.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
