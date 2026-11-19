@@ -363,7 +363,7 @@
             "open_issues": 6,
             "owner": "D363N6UY",
             "repo": "MapleStory-tool",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "cpp",
               "maplestory"
@@ -429,7 +429,7 @@
             "open_issues": 1,
             "owner": "toyobayashi",
             "repo": "wz",
-            "stars": 46,
+            "stars": 45,
             "topics": [
               "maplestory",
               "wz"
@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:41:25.917Z",
+    "last_updated": "2026-11-19T03:20:19.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
