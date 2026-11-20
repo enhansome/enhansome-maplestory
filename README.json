@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "ronancpl",
                 "repo": "HeavenMS",
-                "stars": 1214,
+                "stars": 1213,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:47.116Z"
@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "Hucaru",
                 "repo": "Valhalla",
-                "stars": 347,
+                "stars": 346,
                 "topics": [
                   "docker",
                   "game-server",
@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "Elem8100",
             "repo": "MapleStory-GM-Client",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "2d",
               "delphi",
@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:20:19.158Z",
+    "last_updated": "2026-11-20T03:07:11.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
@@ -638,7 +638,7 @@
       "open_issues": 0,
       "owner": "MapleStoryUnity",
       "repo": "awesome-maplestory",
-      "stars": 92,
+      "stars": 93,
       "topics": [
         "awesome",
         "awesome-list",
