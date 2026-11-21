@@ -100,15 +100,15 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Software
 
-* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 676 | 🐛 63 | 🌐 C# | 📅 2026-11-09 - File/Level editor for MapleStory game files
-* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 629 | 🐛 62 | 🌐 C# | 📅 2026-11-13 - Maplestory online Extractor
+* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 678 | 🐛 63 | 🌐 C# | 📅 2026-11-09 - File/Level editor for MapleStory game files
+* [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 630 | 🐛 62 | 🌐 C# | 📅 2026-11-13 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 151 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
 * [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 123 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
 * [HaSuite](https://github.com/hadeutscher/HaSuite) ⭐ 107 | 🐛 1 | 🌐 C# | 📅 2015-08-31 - A suite of MapleStory utilities
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 539,577 | 🐛 103 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 540,079 | 🐛 103 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
