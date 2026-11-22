@@ -53,7 +53,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ### CMS (China)
 
-* [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 142 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
+* [MapleStory143](https://github.com/mimilewis/MapleStory143) ⭐ 141 | 🐛 12 | 🌐 Java | 📅 2022-11-16 - Chinese MapleStory Server Ver.143
 * [mapleLemon](https://github.com/icelemon1314/mapleLemon) ⭐ 135 | 🐛 5 | 🌐 Java | 📅 2023-12-26 - for chinese maplestory V027
 
 ### TMS (Taiwan)
@@ -90,7 +90,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Libraries
 
-* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 279 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-12 - Definitive MapleStory music database
+* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 279 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-21 - Definitive MapleStory music database
 * [MapleStory-tool](https://github.com/reanox/MapleStory-tool) ⭐ 85 | 🐛 6 | 🌐 C | 📅 2018-12-01 - ijl15.dll for MapleStory
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [MapleLib](https://github.com/hadeutscher/MapleLib) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2020-11-04 - A general-purpose MapleStory library
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 540,079 | 🐛 103 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 540,551 | 🐛 103 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
