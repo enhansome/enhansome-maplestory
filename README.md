@@ -90,7 +90,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Libraries
 
-* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 280 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-24 - Definitive MapleStory music database
+* [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) ⭐ 281 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-24 - Definitive MapleStory music database
 * [MapleStory-tool](https://github.com/reanox/MapleStory-tool) ⭐ 85 | 🐛 6 | 🌐 C | 📅 2018-12-01 - ijl15.dll for MapleStory
 * [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) ⭐ 74 | 🐛 5 | 🌐 C++ | 📅 2017-01-18 - This has no life
 * [MapleLib](https://github.com/hadeutscher/MapleLib) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2020-11-04 - A general-purpose MapleStory library
@@ -100,7 +100,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Software
 
-* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 679 | 🐛 63 | 🌐 C# | 📅 2026-11-09 - File/Level editor for MapleStory game files
+* [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) ⭐ 680 | 🐛 63 | 🌐 C# | 📅 2026-11-09 - File/Level editor for MapleStory game files
 * [WzComparerR2](https://github.com/Kagamia/WzComparerR2) ⭐ 630 | 🐛 64 | 🌐 C# | 📅 2026-11-13 - Maplestory online Extractor
 * [PharaohStroy](https://github.com/flwmxd/PharaohStroy) ⭐ 151 | 🐛 6 | 🌐 Lua | 📅 2020-09-25 - A maplestory IDE which can develop the multi-platform maplestory game
 * [MapleShark](https://github.com/diamondo25/MapleShark) ⭐ 123 | 🐛 8 | 🌐 C# | 📅 2020-07-05 - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
@@ -108,7 +108,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ## Other Awesome Lists
 
-A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 542,417 | 🐛 103 | 📅 2026-09-02.
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme) ⭐ 542,922 | 🐛 103 | 📅 2026-09-02.
 
 ## License
 
@@ -119,4 +119,4 @@ has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

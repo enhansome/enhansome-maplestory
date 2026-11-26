@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "maplestory-music",
             "repo": "maplebgm-db",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "bgm",
               "maplestory",
@@ -509,7 +509,7 @@
             "open_issues": 63,
             "owner": "lastbattle",
             "repo": "Harepacker-resurrected",
-            "stars": 679,
+            "stars": 680,
             "topics": [
               "editor",
               "file",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:52:36.658Z",
+    "last_updated": "2026-11-26T04:07:41.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
