@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "Hucaru",
                 "repo": "Valhalla",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "docker",
                   "game-server",
@@ -531,7 +531,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-13T16:57:25Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "Kagamia",
             "repo": "WzComparerR2",
             "stars": 630,
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:12:08.265Z",
+    "last_updated": "2026-11-28T03:52:47.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MapleStory emulators, libraries and software",
